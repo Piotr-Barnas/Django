@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "northwind",
+            "dialect": "MySQL",
+            "isActive": true,
+            "isConnected": true,
+            "name": "bazydanych",
+            "port": 3306,
+            "server": "giniewicz.it",
+            "username": "student"
+        }
+    ]
+}
